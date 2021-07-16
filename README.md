@@ -14,11 +14,10 @@ A phrase that owed me: *"I may be afraid of making mistakes, but the biggest fea
 
 ![Jecé's GitHub stats](https://github-readme-stats.vercel.app/api?username=XavierJece&show_icons=true&hide=issues,stars&theme=dracula)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierJece&theme=dracula&layout=compact&langs_count=10)](https://github.com/XavierJece)
 
 <details>
   <summary> <b> Technologies and tools that I have professional or academic knowledge and experience</b> <i>(click to expand!)</i> </summary>
- 
+
   <br/>
   <div text-align="justify">
     
@@ -56,6 +55,12 @@ A phrase that owed me: *"I may be afraid of making mistakes, but the biggest fea
 
   <img alt="Digital Ocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"/>
   </div>
+  
+   <br/>
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XavierJece&theme=dracula&layout=compact&langs_count=10)](https://github.com/XavierJece)
+  
+  
 </details>
 
 ## Contact Me :nerd_face:
