@@ -1,3 +1,10 @@
+<style>
+  .logo-qf {
+   margin: 100px;
+  }
+</style>
+
+
 # Jecé Xavier Pereira Neto
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XavierJece" alt="XavierJece" /> </p>
@@ -67,13 +74,25 @@ A phrase that owed me: *"I may be afraid of making mistakes, but the biggest fea
 
 :mailbox: [jece@alunos.utfpr.edu.br](jece@alunos.utfpr.edu.br)
 
+<div align="justify">
+
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/xavierjece/)
-
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/XavierJece)
-
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/jecexavier/)
 
 ## Some projects 
 
+
 [![Bot to hit the spot](https://github-readme-stats.vercel.app/api/pin/?username=XavierJece&repo=beat-time&theme=dracula)](https://github.com/XavierJece/beat-time)
 
+<br/>
+
+<p align="justify" width="400px">
+  <img  align="left" alt="Quem-Faz" src="https://app.quem-faz.com/public/emailLogo.png" height="150px" />
+  
+  
+  <img align="center" alt="Quem-Faz website" src="https://dyn-qrcode.vercel.app/api?url=https://www.quem-faz.com/" height="150px"/>
+</p>
+
+  
+  [:link:	https://www.quem-faz.com/](https://www.quem-faz.com/)
