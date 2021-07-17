@@ -1,10 +1,3 @@
-<style>
-  .logo-qf {
-   margin: 100px;
-  }
-</style>
-
-
 # Jecé Xavier Pereira Neto
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XavierJece" alt="XavierJece" /> </p>
@@ -50,7 +43,7 @@ A phrase that owed me: *"I may be afraid of making mistakes, but the biggest fea
 
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-  <img alt="Redis" src="	https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
 
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
