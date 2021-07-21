@@ -76,7 +76,7 @@ A phrase that owed me: *"I may be afraid of making mistakes, but the biggest fea
 ## Some projects 
 
 
-[![Bot to hit the spot](https://github-readme-stats.vercel.app/api/pin/?username=XavierJece&repo=beat-time&theme=dracula)](https://github.com/XavierJece/beat-time)
+[![Bot to hit the spot](https://github-readme-stats.vercel.app/api/pin/?username=XavierJece&repo=punch-a-clock&theme=dracula)](https://github.com/XavierJece/punch-a-clock)
 
 <br/>
 
