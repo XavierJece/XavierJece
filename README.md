@@ -77,15 +77,3 @@ A phrase that owed me: *"I may be afraid of making mistakes, but the biggest fea
 
 
 [![Bot to hit the spot](https://github-readme-stats.vercel.app/api/pin/?username=XavierJece&repo=punch-a-clock&theme=dracula)](https://github.com/XavierJece/punch-a-clock)
-
-<br/>
-
-<p align="justify" width="400px">
-  <img  align="left" alt="Quem-Faz" src="https://app.quem-faz.com/public/emailLogo.png" height="150px" />
-  
-  
-  <img align="center" alt="Quem-Faz website" src="https://dyn-qrcode.vercel.app/api?url=https://www.quem-faz.com/" height="150px"/>
-</p>
-
-  
-  [:link:	https://www.quem-faz.com/](https://www.quem-faz.com/)
