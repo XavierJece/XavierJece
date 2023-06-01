@@ -2,11 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=XavierJece" alt="XavierJece" /> </p>
 
-Computer Science student in **UTFPR-SH**. Enthusiast of:  Data, Data Science, Machine Learning, Mathematics and Full Stack Development with NodeJS, ReactJS, React Native.
+Hello, I'm Jecé, welcome to my gallery of projects! Here you'll find projects from university days, so you'll see my evolution as a developer. If you find a project that you are interested in collaborating with, do not hesitate! You can get in touch, just below there is a brief presentation to get to know me better.
 
-I work at **DASA** as a backend developer who helps on the frontend when needed. I always seek to improve the architecture of my projects to deliver the best to users.
+I'm a Software Engineer fascinated by technology. As much as my experience in the job market is 3 years, my history with technology and development is more than 8 years. In all my projects, I seek to use technology to improve the user experience, producing tools that solve everyday problems and diversities.
 
-A phrase that owed me: *"I may be afraid of making mistakes, but the biggest fear is not trying"*.
+The graduation period taught me how charming it is to challenge myself. In this way, stepping out of my comfort zone is what defines me. Being a Calculus tutor has shown me in practice how good and fun it is to share knowledge, in addition to proving Robert Half's phrase: "When one teaches, two learn". Characteristic that I keep in my routine until today.
+
+I have an open mind and am willing to take on challenging assignments that allow me to broaden my knowledge and horizons. The idea of facing the unknown energizes me and inspires me to find innovative and creative solutions. I am prepared to step out of my comfort zone and face any challenge that presents itself, as I believe that this is where the greatest personal and professional advances occur.
 
 ## My Stats
 
